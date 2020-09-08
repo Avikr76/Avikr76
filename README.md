@@ -1,8 +1,8 @@
 ### Hello World 👋
 My name is **Abhinav Kumar**. I am currently pursuing my B.E in **Information Science and Engineering(ISE)** from **National Institute of Engineering in Mysore**.
 I am currently exploring different field in Computer Science like ***Machine Learning, Deep Learning, Cloud Computing, Web Development, CyberSecurity*** etc. and want to explore more.
-I like to watch movies, Web Series and listining Music and Dark Humour:smiling_imp:. I am active on Instagram, LinkedIn and Reddit.
-I am also an Introvert:sweat_smile:.
+I like to watch movies, Web Series and listining Music and Dark Humour:smiling_imp:. I am active on **Instagram, LinkedIn and Reddit**.
+I am also an **Introvert**:sweat_smile:.
 
 
 [![LinkedIn logo image link](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/abhinav-kumar-a78669198/)
