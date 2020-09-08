@@ -17,6 +17,6 @@ I am also an **Introvert**:sweat_smile:.
 * 🤔 I’m looking for help with applying Programming Concepts to Real World Projects.
 
 * 💬 Ask me about : Java, Python, DL, Google Cloud
-* ⚡ Fun fact: Error 404 not found.
+* ⚡ Fun fact: Error 404! Bug not found.
 
 
